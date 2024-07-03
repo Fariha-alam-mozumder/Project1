@@ -12,8 +12,11 @@ Welcome to SilverConnect,connecting generation ,expanding happiness. A non-profi
 ## Profile(Elderly)
 
 
-![WhatsApp Image 2024-07-04 at 1 41 56 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/48bb467c-95fb-4252-becc-83b5cd6f8f4f)<br><br>
+![WhatsApp Image 2024-07-04 at 1 41 56 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/48bb467c-95fb-4252-becc-83b5cd6f8f4f)<br><br><br>
 
-### If an elderly wants to take a service like transportation ,he/she will click on the button of transportation.Then the following page will be shown:
+#### If an elderly wants to take a service like transportation ,he/she will click on the button of transportation.Then the following page will be shown:
 
 ![WhatsApp Image 2024-07-04 at 1 43 31 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/00fc9090-4bc7-4d5f-b772-167c9465909b)
+#### After contacting with a service provider,the elderly will give points to the corresponding providers to provide required services.
+
+
