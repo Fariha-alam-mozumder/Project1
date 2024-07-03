@@ -14,7 +14,7 @@ Welcome to SilverConnect,connecting generation ,expanding happiness. A non-profi
 
 ![WhatsApp Image 2024-07-04 at 1 41 56 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/48bb467c-95fb-4252-becc-83b5cd6f8f4f)<br><br><br>
 ## Service providers list:
-#### If an elderly wants to take a service like transportation ,he/she will click on the button of transportation.Then the following page will be shown:
+#### If an elderly wants to take a service like transportation ,he/she will click on the button of TRANSPORTATION.#### After contacting with a service provider,the elderly will give points to the corresponding provider to provide required services.Then the following page will be shown:
 
 ![WhatsApp Image 2024-07-04 at 1 43 31 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/00fc9090-4bc7-4d5f-b772-167c9465909b)
 #### After contacting with a service provider,the elderly will give points to the corresponding provider to provide required services.
@@ -22,6 +22,7 @@ Welcome to SilverConnect,connecting generation ,expanding happiness. A non-profi
 ## Login page(Service provider):
 ![WhatsApp Image 2024-07-04 at 1 44 16 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/e135fc78-45d1-473e-8843-0f777670393d)
 ## Profile(Service Provider):
+#### After completing task the provider will press the TASK COMPLETED button.Then the whole procedure will be completed.
 
 ![WhatsApp Image 2024-07-04 at 1 44 34 AM](https://github.com/Fariha-alam-mozumder/project1/assets/156440883/ffc2dd49-15fb-4698-822d-fc3b9cbdd860)
 
